@@ -27,8 +27,8 @@
     <meta property="og:description" content="">
     <meta property="og:type" content="website">
   </head>
-  <body class="u-body"><header class="u-clearfix u-header u-sticky u-sticky-373a u-header" id="sec-a44e"><div class="u-clearfix u-sheet u-sheet-1">
-        <a href="Home.html" data-page-id="231202133" class="u-image u-logo u-image-1" data-image-width="6289" data-image-height="1430" title="Home">
+  <body class="u-body"><header class="u-clearfix u-header u-sticky u-sticky-373a u-white u-header" id="sec-a44e"><div class="u-clearfix u-sheet u-valign-middle u-sheet-1">
+        <a href="Home.php" data-page-id="231202133" class="u-image u-logo u-image-1" data-image-width="6289" data-image-height="1430" title="Home">
           <img src="images/Webblogo-RGBfullcolor.jpg" class="u-logo-image u-logo-image-1">
         </a>
         <nav class="u-menu u-menu-dropdown u-offcanvas u-menu-1">
@@ -41,18 +41,18 @@
             </a>
           </div>
           <div class="u-custom-menu u-nav-container">
-            <ul class="u-nav u-unstyled u-nav-1"><li class="u-nav-item"><a class="u-button-style u-nav-link u-text-active-palette-1-base u-text-hover-palette-2-base" href="Home.html" style="padding: 10px 20px;">Home</a>
-</li><li class="u-nav-item"><a class="u-button-style u-nav-link u-text-active-palette-1-base u-text-hover-palette-2-base" href="Settings.html" style="padding: 10px 20px;">Settings</a>
-</li><li class="u-nav-item"><a class="u-button-style u-nav-link u-text-active-palette-1-base u-text-hover-palette-2-base" href="About.html" style="padding: 10px 20px;">About</a>
+            <ul class="u-nav u-unstyled u-nav-1"><li class="u-nav-item"><a class="u-button-style u-nav-link u-text-active-palette-1-base u-text-hover-palette-2-base" href="Home.php" style="padding: 10px 20px;">Home</a>
+</li><li class="u-nav-item"><a class="u-button-style u-nav-link u-text-active-palette-1-base u-text-hover-palette-2-base" href="Settings.php" style="padding: 10px 20px;">Settings</a>
+</li><li class="u-nav-item"><a class="u-button-style u-nav-link u-text-active-palette-1-base u-text-hover-palette-2-base" href="About.php" style="padding: 10px 20px;">About</a>
 </li></ul>
           </div>
           <div class="u-custom-menu u-nav-container-collapse">
             <div class="u-black u-container-style u-inner-container-layout u-opacity u-opacity-95 u-sidenav">
               <div class="u-inner-container-layout u-sidenav-overflow">
                 <div class="u-menu-close"></div>
-                <ul class="u-align-center u-nav u-popupmenu-items u-unstyled u-nav-2"><li class="u-nav-item"><a class="u-button-style u-nav-link" href="Home.html" style="padding: 10px 20px;">Home</a>
-</li><li class="u-nav-item"><a class="u-button-style u-nav-link" href="Settings.html" style="padding: 10px 20px;">Settings</a>
-</li><li class="u-nav-item"><a class="u-button-style u-nav-link" href="About.html" style="padding: 10px 20px;">About</a>
+                <ul class="u-align-center u-nav u-popupmenu-items u-unstyled u-nav-2"><li class="u-nav-item"><a class="u-button-style u-nav-link" href="Home.php" style="padding: 10px 20px;">Home</a>
+</li><li class="u-nav-item"><a class="u-button-style u-nav-link" href="Settings.php" style="padding: 10px 20px;">Settings</a>
+</li><li class="u-nav-item"><a class="u-button-style u-nav-link" href="About.php" style="padding: 10px 20px;">About</a>
 </li></ul>
               </div>
             </div>
@@ -60,7 +60,9 @@
           </div>
         </nav>
         <h2 class="u-align-center u-subtitle u-text u-text-custom-color-1 u-text-1">Autonomous Surface Vessel </h2>
-      </div></header>
+      </div><style class="u-sticky-style" data-style-id="373a">.u-sticky-fixed.u-sticky-373a:before, .u-body.u-sticky-fixed .u-sticky-373a:before {
+border-color: #404040 !important; border-width: 2px !important; borders: top right bottom left !important
+}</style></header>
     <section class="u-align-center u-clearfix u-section-1" id="sec-56bc">
       <div class="u-clearfix u-sheet u-sheet-1">
         <div class="u-container-style u-group u-group-1">
