@@ -2,7 +2,7 @@
 // CODE FROM https://stackoverflow.com/questions/8226958/simple-php-editor-of-text-files
 // configuration
 $url = 'Home.php';
-$file = 'C:\users\kbecker\Documents\Github\JavaASV\src\main\resources\properties\route.properties';
+$file = 'javaASV\src\main\resources\properties\route.properties';
 // read the textfile
 $text = file_get_contents($file);
 
@@ -93,7 +93,23 @@ border-color: #404040 !important; border-width: 2px !important; borders: top rig
 </section>
 
 
-
+    <footer class="u-align-center u-clearfix u-footer u-grey-80 u-footer" id="sec-5926"><div class="u-clearfix u-sheet u-sheet-1">
+        <p class="u-small-text u-text u-text-variant u-text-1">Webb Institute 2022<br>
+        </p>
+      </div></footer>
+    <section class="u-backlink u-clearfix u-grey-80">
+      <a class="u-link" href="https://nicepage.com/website-templates" target="_blank">
+        <span>Website Templates</span>
+      </a>
+      <p class="u-text">
+        <span>created with</span>
+      </p>
+      <a class="u-link" href="https://nicepage.com/" target="_blank">
+        <span>Website Builder Software</span>
+      </a>. 
+    </section>
+  </body>
+</html>
 <?php
 
 function update_config($file)

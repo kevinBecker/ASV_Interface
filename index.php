@@ -100,7 +100,6 @@ border-color: #404040 !important; border-width: 2px !important; borders: top rig
               <input type="submit" name="test" id="test" value="RUN">
             </div>
 			<
-		  
 		  <?php
 		  
 		  function upload_and_run(){
@@ -114,10 +113,7 @@ border-color: #404040 !important; border-width: 2px !important; borders: top rig
 		  }
 		  
 		  ?>
-		  
-		  
-		  
-        </div>
+		  </div>
       </div>
     </section>
     

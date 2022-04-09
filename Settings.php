@@ -2,9 +2,9 @@
 // CODE FROM https://stackoverflow.com/questions/8226958/simple-php-editor-of-text-files
 // configuration
 $url = 'Settings.php';
-$fileOne   = 'C:\users\kbecker\Documents\Github\JavaASV\src\main\resources\properties\controllers.properties';
-$fileTwo   = 'C:\users\kbecker\Documents\Github\JavaASV\src\main\resources\properties\serial.properties';
-$fileThree = 'C:\users\kbecker\Documents\Github\JavaASV\src\main\resources\properties\asv.properties';
+$fileOne   = 'javaASV\src\main\resources\properties\controllers.properties';
+$fileTwo   = 'javaASV\src\main\resources\properties\serial.properties';
+$fileThree = 'javaASV\src\main\resources\properties\asv.properties';
 
 // read the textfiles
 $textInOne = file_get_contents($fileOne);
